@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @thejalsapavan
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning who cares
-- 💞️ I’m looking to collaborate with anyone
 - 📫 How to reach me 
     jalsapavan@yahoo.com
 
