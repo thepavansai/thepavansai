@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thejalsapavan
+- 👋 Hi, I’m Pavan Sai
 - 📫 How to reach me 
     jalsapavan@yahoo.com
 
