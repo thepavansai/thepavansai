@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pavan Sai
+- 👋 Hi, I’m G.Pavan Sai Sriram 
 - 📫 How to reach me 
     jalsapavan@yahoo.com
 
