@@ -1,6 +1,6 @@
 - 👋 Hi, I’m G.Pavan Sai Sriram 
 - 📫 How to reach me 
-    jalsapavan@yahoo.com
+    jalsapavan@pm.me
 
 
 <!---
