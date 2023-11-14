@@ -1,4 +1,4 @@
-### Hi, I’m G.Pavan Sai Sriram 👋 
+### Hi, I’m Gara Pavan Sai Sriram 👋 
 ![Visitor Count](https://profile-counter.glitch.me/phantompavan/count.svg)
 - 📫 How to reach me 
     phantompavan@protonmail.com
