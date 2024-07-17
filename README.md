@@ -1,7 +1,7 @@
 ### Hi, I’m Gara Pavan Sai Sriram 👋 
 ![Visitor Count](https://profile-counter.glitch.me/thepavansai/count.svg)
 - 📫 How to reach me 
-   thepavansai@protonmail.com
+   gpavansai21@gmail.com
 
 
 <!---
