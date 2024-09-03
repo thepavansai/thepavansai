@@ -2,8 +2,8 @@
 ![Visitor Count](https://profile-counter.glitch.me/thepavansai/count.svg)
 
 
- [![Github Stats](https://github-readme-stats.vercel.app/api?username=thepavansai&show_icons=true)](https://github.com/thepavansai)  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thepavansai&layout=compact)](https://github.com/thepavansai)
+ [![Github Stats](https://github-readme-stats.vercel.app/api?username=thepavansai&show_icons=true)](https://github.com/thepavansai&show_icons=true&theme=transparent)  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thepavansai&layout=compact)](https://github.com/thepavansai&show_icons=true&theme=transparent)
  - 📫 How to reach me 
   gpavansai21@gmail.com
 
