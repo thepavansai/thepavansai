@@ -4,7 +4,7 @@
 
 
  - 📫 How to reach me 
-  gpavansai21@gmail.com
+ contact@thepavansai.works
 
  
 
