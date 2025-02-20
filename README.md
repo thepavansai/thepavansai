@@ -7,7 +7,7 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thepavansai&layout=compact&theme=transparent)](https://github.com/thepavansai)
 
  - 📫 How to reach me 
- contact@thepavansai.works
+contact@thepavansai.xyz
 
  
 
