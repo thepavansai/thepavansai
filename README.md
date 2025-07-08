@@ -1,5 +1,5 @@
 ### Hi, I’m Gara Pavan Sai Sriram 👋 
-![Visitor Count](https://profile-counter.glitch.me/thepavansai/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=thepavansai)
 
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=thepavansai&show_icons=true&theme=transparent)](https://github.com/thepavansai) 
