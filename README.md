@@ -1,7 +1,6 @@
 ### Hi, I’m Pavan Sai 👋 
 
- - 📫 How to reach me 
-contact@thepavansai.xyz
+ - 📫 How to reach me gpavansai21@gmail.com
 
 <!---
 thejalsapavan/thejalsapavan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
