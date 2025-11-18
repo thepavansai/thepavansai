@@ -15,7 +15,8 @@ You can click the Preview link to take a look at your changes.
 ## Contact  
 - Email | **gpavansai21@gmail.com**
 - LinkedIn | [thepavansai](https://www.linkedin.com/in/thepavansai) 
-- Website | [thepavansai.github.io](https://thepavansai.github.io) 
+- Website | ~~[thepavansai.github.io](https://thepavansai.github.io)~~  *Outdated* 🚧 (working on updates—check back soon!)
+
 
 ## Technologies & Tools
 
