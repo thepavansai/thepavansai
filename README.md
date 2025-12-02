@@ -32,7 +32,7 @@ I work with a variety of technologies, including:
 
 ## 🖥 Environment
 
-- **Operating System**: Arch Linux / Debian
+- **Operating System**: Linux (Arch/Debain/Fedora)
 - **Development Tools**: IntelliJ IDEA, Visual Studio Code, Postman, Docker, Helm, **Vim**, **Neovim**
 - **Version Control**: GitHub, GitLab, Bitbucket
 
