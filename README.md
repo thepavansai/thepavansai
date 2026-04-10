@@ -10,26 +10,26 @@
 - Backend at heart with **Java (Spring Boot)** and **Go**; front-end capable with **React** and **Angular**.
 - Skilled in **containerisation**, **cloud orchestration**, and **observability** using **OpenShift**, **Helm**, **Kubernetes**, **Grafana**, and **Prometheus**.
 
-## Contact
+## ✉️ Contact
 
 - Email | **z08qqwf21@mozmail.com**
 - LinkedIn | [thepavansai](https://www.linkedin.com/in/thepavansai)
-- X | [@thepavansaii](https://x.com/thepavansaii)
-- Website | [thepavansai.github.io](https://thepavansai.github.io) 🚧 *(updates in progress)*
+- Portfolio | [thepavansai.github.io](https://thepavansai.github.io)
+- Medium | [thepavansaii](https://medium.com/@thepavansaii)
+- Dev.to | [thepavansai](https://dev.to/thepavansai)
 
-## Technologies & Tools
+## 🛠️ Technologies & Tools
 
 - **Languages**: Java, Go, JavaScript, TypeScript
 - **Frontend**: React, Angular, HTML, CSS, Tailwind CSS, Bootstrap
 - **Backend**: Java (Spring Boot, Kotlin), Go (Gin, Echo), Node.js, Express
 - **Databases**: PostgreSQL, MySQL, MongoDB
 - **Cloud & DevOps**: OpenShift, Kubernetes, Helm, Docker, Jenkins, AWS, CI/CD pipelines
-- **Monitoring & Observability**: Grafana, Prometheus
-- **Tools**: Git, IntelliJ IDEA, VS Code, Maven, Gradle, Neovim
+- **Tools**: Git, Maven, Gradle.
 
 ## 🖥 Environment
 
-- **OS**: Fedora Linux
-- **Editor**: Neovim (primary), IntelliJ IDEA
+- **OS**: ArchLinux, Fedora Linux
+- **Editor**: Neovim , IntelliJ IDEA, Eclipse, VSCode, STS
 - **Version Control**: GitHub, GitLab, Bitbucket
 - **Other Tools**: Postman, Docker, Helm
