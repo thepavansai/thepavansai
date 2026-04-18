@@ -12,7 +12,7 @@
 
 ## ✉️ Contact
 
-- Email | **z08qqwf21@mozmail.com**
+- Email | **z08qqwf21@mozmail.com** || **thepavansai@duck.com**
 - LinkedIn | [thepavansai](https://www.linkedin.com/in/thepavansai)
 - Portfolio | [thepavansai.github.io](https://thepavansai.github.io)
 - Medium | [thepavansaii](https://medium.com/@thepavansaii)
