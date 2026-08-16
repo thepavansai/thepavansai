@@ -1,35 +1,23 @@
-<!---
-  is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-  You can click the Preview link to take a look at your changes.
---->
+Hey, I'm Pavan Sai.
 
-### Hi there 👋 I'm **Pavan Sai**
+I build things end to end - backend services, APIs, full-stack apps, and lately, a lot of LLM-powered systems. I care more about software that survives contact with production than software that looks good in a demo.
 
-- A **Full-Stack Engineer** with a strong focus on **Java** — building scalable web applications, RESTful APIs, and cloud-native systems end to end.
-- Passionate about **Golang**, **cloud computing**, **microservices** architecture, and **DevOps** tooling.
-- Backend at heart with **Java (Spring Boot)** and **Go**; front-end capable with **React** and **Angular**.
-- Skilled in **containerisation**, **cloud orchestration**, and **observability** using **OpenShift**, **Helm**, **Kubernetes**, **Grafana**, and **Prometheus**.
+*Some of what I'm building and working with*
 
-## ✉️ Contact
+AI Agents
+LLM-powered applications that let people talk to enterprise data in plain language. Tool calling, RAG pipelines, deterministic routing, and the unglamorous work of making agents reliable and observable.
 
-- Email | **z08qqwf21@mozmail.com** || **thepavansai@duck.com**
-- LinkedIn | [thepavansai](https://www.linkedin.com/in/thepavansai)
-- Portfolio | [thepavansai.github.io](https://thepavansai.github.io)
-- Medium | [thepavansaii](https://medium.com/@thepavansaii)
-- Dev.to | [thepavansai](https://dev.to/thepavansai)
+Backend Systems
+APIs and services in Python (FastAPI), Java (Spring Boot / Spring AI), and Go, backed by PostgreSQL, Redis, Kafka, shipped through Docker and Kubernetes.
 
-## 🛠️ Technologies & Tools
+Full Stack Apps
+React / Next.js front ends wired up to the backends above.
 
-- **Languages**: Java, Go, JavaScript, TypeScript
-- **Frontend**: React, Angular, HTML, CSS, Tailwind CSS, Bootstrap
-- **Backend**: Java (Spring Boot, Kotlin), Go (Gin, Echo), Node.js, Express
-- **Databases**: PostgreSQL, MySQL, MongoDB
-- **Cloud & DevOps**: OpenShift, Kubernetes, Helm, Docker, Jenkins, AWS, CI/CD pipelines
-- **Tools**: Git, Maven, Gradle.
+[Portfolio](https://thepavansai.github.io/) - where the projects actually live.<br>
+[Writing](https://medium.com/@thepavansaii) - notes on software engineering, design patterns, and things I've learned the hard way.
 
-## 🖥 Environment
+<hr></hr>
 
-- **OS**: ArchLinux, Fedora Linux
-- **Editor**: Neovim , IntelliJ IDEA, Eclipse, VSCode, STS
-- **Version Control**: GitHub, GitLab, Bitbucket
-- **Other Tools**: Postman, Docker, Helm
+Reach me at [thepavansai@duck.com](mailto:thepavansai@duck.com) or [LinkedIn](https://www.linkedin.com/in/thepavansai).
+
+*Build things. Learn constantly. Make them better.*
