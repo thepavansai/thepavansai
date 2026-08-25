@@ -18,9 +18,7 @@ React / Next.js front ends wired up to the backends above.
 
 <hr></hr>
 
-Reach me at [thepavansai@duck.com](mailto:thepavansai@duck.com) or [LinkedIn](https://www.linkedin.com/in/thepavansai).
-
-[![HitCount](https://hits.dwyl.com/thepavansai/thepavansai.svg?style=flat-square)](http://hits.dwyl.com/thepavansai/thepavansai)
+Reach me at [thepavansai@duck.com](mailto:thepavansai@duck.com) or [LinkedIn](https://www.linkedin.com/in/thepavansai). [![HitCount](https://hits.dwyl.com/thepavansai/thepavansai.svg?style=flat-square)](http://hits.dwyl.com/thepavansai/thepavansai)
 
 
 *Build things. Learn constantly. Make them better.*
